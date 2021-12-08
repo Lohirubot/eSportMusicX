@@ -6,10 +6,10 @@
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
     <a href="https://github.com/Lohirubot/eSportMusicX/tree/patch-1/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-red.svg?style=flat-square" /></a>
     <a href="https://github.com/Lohirubot/eSportMusicX/tree/patch-1"> <img src="https://img.shields.io/github/repo-size/Lohirubot/Svf music bot?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/Lohirubot/eSportMusicX/tree/patch-1"/Svf music bot/commits/main"> <img src="https://img.shields.io/github/last-commit/Lohirubot/Svf music bot?color=blue&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/Lohirubot/eSportMusicX/tree/patch-1/Svf music bot/issues"> <img src="https://img.shields.io/github/issues/Lohirubot/Svf music bot?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/Lohirubot/eSportMusicX/tree/patch-1"/Svf music bot/network/members"> <img src="https://img.shields.io/github/forks/Lohirubot/Svf music bot?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
-    <a href="https://github.com/Lohirubot/eSportMusicX/tree/patch-1"/Svf music bot/network/members"> <img src="https://img.shields.io/github/stars/Lohirubot/Svf music bot?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
+    <a href="https://github.com/Lohirubot/eSportMusicX/tree/patch-1"/Svf music bot/commits/main"> <img src="https://img.shields.io/github/last-commit/Lohirubot/Svfmusicbot?color=blue&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/Lohirubot/eSportMusicX/tree/patch-1/Svfmusicbot/issues"> <img src="https://img.shields.io/github/issues/Lohirubot/Svf music bot?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/Lohirubot/eSportMusicX/tree/patch-1"/Svf music bot/network/members"> <img src="https://img.shields.io/github/forks/Lohirubot/Svfmusicbot?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
+    <a href="https://github.com/Lohirubot/eSportMusicX/tree/patch-1"/Svf music bot/network/members"> <img src="https://img.shields.io/github/stars/Lohirubot/Svfmusicbot?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
 </p>
 
 <h3>Requirements 📝</h3>
@@ -52,7 +52,7 @@
 ## Heroku Deployment 💜
 The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=(https://github.com/Lohirubot/eSportMusicX/tree/patch-1)/Svf music bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?[template](https://github.com/Lohirubot/eSportMusicX/tree/patch-1)/Svfmusicbot)
 
 ## ᴅᴇᴘʟᴏʏ ᴏɴ ᴠᴘꜱ ꜱᴇʀᴠᴇʀ 📡
 
