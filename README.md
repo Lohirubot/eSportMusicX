@@ -1,15 +1,15 @@
-<p align="center"><a href="https://t.me/lhrupdates"><img src="https://github.com/Lohirubot/tree/patch-1"
+<p align="center"><a href="https://t.me/lhrupdates"><img src="https://github.com/Lohirubot/eSportMusicX.git"
 <p align="center">
     <br><b> 𝚃𝙷 ➵ ✘ ☛❘⚡ᵀᵉᵃᵐ𝚂𝚅𝙵⚡❘ 𝐋𝐎𝐇𝐈𝐑𝐔 🇱🇰❘☚ ✘is a telegram bot project that's allow you to play music on telegram voice chat group</b><br>
 </p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
-    <a href="https://github.com/Lohirubot/tree/patch-1/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-red.svg?style=flat-square" /></a>
+    <a href="https://github.com/Lohirubot/eSportMusicX.git/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-red.svg?style=flat-square" /></a>
     <a href="https://github.com/Lohirubot/eSportMusicX/tree/patch-1"> <img src="https://img.shields.io/github/repo-size/Lohirubot/Svf music bot?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/Lohirubot/eSportMusicX/tree/patch-1"/Svf music bot/commits/main"> <img src="https://img.shields.io/github/last-commit/Lohirubot/Svfmusicbot?color=blue&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/Lohirubot/tree/patch-1/issues"> <img src="https://img.shields.io/github/issues/Lohirubot ?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/Lohirubot/eSportMusicX/tree/patch-1"/Svf music bot/network/members"> <img src="https://img.shields.io/github/forks/Lohirubot/Svfmusicbot?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
-    <a href="https://github.com/Lohirubot/eSportMusicX/tree/patch-1"/Svf music bot/network/members"> <img src="https://img.shields.io/github/stars/Lohirubot/Svfmusicbot?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
+    <a href="https://github.com/Lohirubot/eSportMusicX.git"/commits/main"> <img src="https://img.shields.io/github/last-commit/Lohirubot/Svfmusicbot?color=blue&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/Lohirubot/eSportMusicX.git/issues"> <img src="https://img.shields.io/github/issues/Lohirubot ?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/Lohirubot/eSportMusicX/"/Svf music bot/network/members"> <img src="https://img.shields.io/github/forks/Lohirubot/Svfmusicbot?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
+    <a href="https://github.com/Lohirubot/eSportMusicX/"/Svf music bot/network/members"> <img src="https://img.shields.io/github/stars/Lohirubot/Svfmusicbot?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
 </p>
 
 <h3>Requirements 📝</h3>
@@ -52,7 +52,7 @@
 ## Heroku Deployment 💜
 The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?[template](https://github.com/Lohirubot/eSportMusicX/tree/patch-1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?[template](https://github.com/Lohirubot/eSportMusicX.git)
 
 ## ᴅᴇᴘʟᴏʏ ᴏɴ ᴠᴘꜱ ꜱᴇʀᴠᴇʀ 📡
 
@@ -63,7 +63,7 @@ pip3 install -U pip
 curl -sL https://deb.nodesource.com/setup_16.x | bash -
 sudo apt-get install -y nodejs
 npm i -g npm
-git clone https://github.com/Lohirubot/tree/patch-1 # Clone your repo.
+git clone https://github.com/Lohirubot/eSportMusicX.git # Clone your repo.
 cd eSportMusicX
 pip3 install -U -r requirements.txt
 cp example.env .env #Use vim to edit ENVs
