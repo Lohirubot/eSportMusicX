@@ -1,5 +1,5 @@
 from os import path
-
+from os import telethon
 from yt_dlp import YoutubeDL
 
 from config import BOT_NAME as bn, DURATION_LIMIT
