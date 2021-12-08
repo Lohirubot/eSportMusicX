@@ -1,6 +1,6 @@
 from os import path
 import asyncio
-
+import telethon
 from helpers.errors import FFmpegReturnCodeError
 
 
