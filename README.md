@@ -72,7 +72,7 @@ python3 main.py # Run the bot
 ```
 
 ### Special Credits 💖
-- [wamd13](https://github.com/Lohirubot/tree/patch-1): Dev
+- [wamd13](https://github.com/Lohirubot): Dev
 
 
 
